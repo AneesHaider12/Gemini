@@ -3,6 +3,7 @@ import {assets} from '../../assets/assets';
 import './Sidebar.css'
 const Sidebar= () => {
     const[extended,setExtended]=useState(false);
+   
 return(
     
     <div className="sidebar">
